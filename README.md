@@ -19,13 +19,13 @@
 
 | Project | Notes |
 |---|---|
-| [Prerequisites & Installation](https://github.com/JordanRutyna/osticket-prereqs) |
+| [Prerequisites & Installation](https://github.com/JordanRutyna/osticket-prereqs) | In Progress |
 
 ### Microsoft Azure / Active Directory
 
 | Project | Notes |
 |---|---|
-| [Configuring On-Premises Active Directory within Azure VMs](https://github.com/JordanRutyna/configure-ad) |
+| [Configuring On-Premises Active Directory within Azure VMs](https://github.com/JordanRutyna/configure-ad) | In Progress |
 
 ---
 
