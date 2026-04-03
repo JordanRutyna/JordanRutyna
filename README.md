@@ -15,17 +15,17 @@
 
 ## 01 · IT Support Projects
 
+### Active Directory
+
+| Project | Notes |
+|---|---|
+| [Active Directory Home Lab](https://github.com/JordanRutyna/active-directory-home-lab) | Windows Server 2022, VirtualBox, PowerShell, Group Policy |
+
 ### Help Desk (osTicket)
 
 | Project | Notes |
 |---|---|
-| [Prerequisites & Installation](https://github.com/JordanRutyna/osticket-prereqs) | In Progress |
-
-### Microsoft Azure / Active Directory
-
-| Project | Notes |
-|---|---|
-| [Configuring On-Premises Active Directory within Azure VMs](https://github.com/JordanRutyna/configure-ad) | In Progress |
+| [Prerequisites & Installation](https://github.com/JordanRutyna) | Pending |
 
 ---
 
