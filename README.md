@@ -4,7 +4,7 @@
   <em>IT Support</em>
 </p>
 <p align="center">
-<em>Computer Science Graduate. CompTIA Security+ Certified.</em>
+<em>Computer Science Graduate. CompTIA Security+ Certified. Building hands-on IT support experience through homelabs and open source projects. Seeking an entry-level IT support or desktop support role.</em>
 </p>
 
 <p align="center">
@@ -19,13 +19,13 @@
 
 | Project | Notes |
 |---|---|
-| [Active Directory Home Lab](https://github.com/JordanRutyna/active-directory-home-lab) | Windows Server 2022, VirtualBox, PowerShell, Group Policy |
+| [Active Directory Home Lab](https://github.com/JordanRutyna/active-directory-home-lab) | Windows Server 2022, AD DS, GPO, PowerShell automation, helpdesk simulations |
 
-### Help Desk (osTicket)
+### Help Desk (Jira)
 
 | Project | Notes |
 |---|---|
-| [Prerequisites & Installation](https://github.com/JordanRutyna) | Pending |
+| [Jira Helpdesk](https://github.com/JordanRutyna/jira-helpdesk) | Jira, IT workflow design, ticket lifecycle management |
 
 ---
 
