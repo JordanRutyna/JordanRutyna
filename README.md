@@ -15,7 +15,7 @@
   </a>
 </p>
 <p align="center">
-  <em>Open to IT support and desktop support roles in the Toronto area.</em>
+  <em>Open to IT support and desktop support roles in the Kitchener-Waterloo area.</em>
 </p>
 
 ---
